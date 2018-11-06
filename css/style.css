@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Elise+Swash+Caps:400,900);
+
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -7,4 +9,7 @@ figcaption {
   font-weight: normal;
   font-size: 0.75em;
   line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+  color: #777;
+  text-align: right;
 }
